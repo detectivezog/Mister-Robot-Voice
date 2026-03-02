@@ -1,4 +1,5 @@
 @echo off
 echo - - - Running - - -
-python pysam
+python pysam.py
+
 timeout /t 10
